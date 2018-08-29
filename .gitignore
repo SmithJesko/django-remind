@@ -1,0 +1,5 @@
+secrets.py
+club.csv
+db.sqlite3
+__pycache__/
+migrations/
